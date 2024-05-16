@@ -20,5 +20,4 @@ data/*
 # Docker related files
 Makefile
 docker-compose.yml
-.gitignore
 dockerfile
